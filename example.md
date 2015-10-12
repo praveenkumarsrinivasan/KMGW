@@ -2,7 +2,6 @@
 
 Praveen Kumar Srinivasan
 
-[24-07-2015]
 
 Notes:
 - Hello Everyone My Name is ..
@@ -495,6 +494,7 @@ Notes:
     + Celebrities, City, Movies
 
 -----
+
 ### Traditional NERC Systems
 
 Features used in NERC
